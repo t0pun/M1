@@ -28,7 +28,6 @@ INSERT INTO CLIENT VALUES (27, 'Kim', 'Min-ji', 29, 'Féminin', 'Coréenne', '82
 INSERT INTO CLIENT VALUES (28, 'Smith', 'John', 40, 'Masculin', 'Anglais', '442087654321', '07712345678', 'High Street', 10, 'Londres', 'Royaume-Uni');
 INSERT INTO CLIENT VALUES (29, 'Rousseau', 'Marie', 27, 'Féminin', 'Française', '33123456789', '0623456789', 'Rue de la Paix', 5, 'Paris', 'France');
 INSERT INTO CLIENT VALUES (30, 'Mueller', 'Hans', 33, 'Masculin', 'Allemand', '49874563210', '0612345678', 'Gaudner', 25, 'Berlin', 'Allemagne');
-INSERT INTO CLIENT VALUES (30, 'Wang', 'Hui', 36, 'Masculin', 'Chinois', '8612345678901', '13987654321', 'Nanjing Road', 88, 'Shanghai', 'Chine');
 INSERT INTO CLIENT VALUES (31, 'Fontaine', 'Sophie', 42, 'Féminin', 'Française', '33123456789', '0623456789', 'Rue de la Liberté', 9, 'Lyon', 'France');
 INSERT INTO CLIENT VALUES (32, 'López', 'Carlos', 29, 'Masculin', 'Mexicain', '525512345678', '0449876543', 'Avenida Reforma', 100, 'Mexico', 'Mexique');
 INSERT INTO CLIENT VALUES (33, 'Kumar', 'Rajesh', 34, 'Masculin', 'Indien', '911234567890', '0987654321', 'MG Road', 43, 'Bangalore', 'Inde');
@@ -101,6 +100,8 @@ INSERT INTO CLIENT VALUES (99, 'De Luca', 'Giovanni', 36, 'Masculin', 'Italien',
 INSERT INTO CLIENT VALUES (100, 'Ferrari', 'Chiara', 33, 'Féminin', 'Italienne', '10012345732', '6045678955', 'Via Veneto', 12, 'Rome', 'Italie');
 INSERT INTO CLIENT VALUES (101, 'Rizzo', 'Marco', 30, 'Masculin', 'Italien', '10112345733', '6145678956', 'Corso Umberto I', 8, 'Naples', 'Italie');
 INSERT INTO CLIENT VALUES (102, 'Greco', 'Laura', 39, 'Féminin', 'Italienne', '10212345734', '6245678957', 'Via San Gregorio Armeno', 22, 'Naples', 'Italie');
+INSERT INTO CLIENT VALUES (103, 'Wang', 'Hui', 36, 'Masculin', 'Chinois', '8612345678901', '13987654321', 'Nanjing Road', 88, 'Shanghai', 'Chine');
+
 
 
 -- Aeroport
