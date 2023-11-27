@@ -45,61 +45,61 @@ INSERT INTO CLIENT VALUES (43, 'Dubois', 'Camille', 26, 'Féminin', 'Française'
 INSERT INTO CLIENT VALUES (44, 'Mendoza', 'Juan', 41, 'Masculin', 'Mexicain', '525512345678', '0449876543', 'Avenida Reforma', 100, 'Mexico', 'Mexique');
 INSERT INTO CLIENT VALUES (45, 'Kumar', 'Rajesh', 32, 'Masculin', 'Indien', '911234567890', '0987654321', 'MG Road', 43, 'Bangalore', 'Inde');
 INSERT INTO CLIENT VALUES (46, 'Andersen', 'Mette', 36, 'Féminin', 'Danoise', '4512345678', '0645678901', 'Strandvejen', 5, 'Copenhague', 'Danemark');
-INSERT INTO CLIENT VALUES (47, 'Berg', 'Jens', 42, 'Masculin', 'Danois', '4512345679', '0645678902', 'Skovvej', 12, 'Aarhus', 'Danemark'),
-INSERT INTO CLIENT VALUES (48, 'Christensen', 'Lise', 28, 'Féminin', 'Danoise', '4512345680', '0645678903', 'Hovedgade', 8, 'Odense', 'Danemark'),
-INSERT INTO CLIENT VALUES (49, 'Dahl', 'Henrik', 51, 'Masculin', 'Danois', '4512345681', '0645678904', 'Søndergade', 15, 'Esbjerg', 'Danemark'),
-INSERT INTO CLIENT VALUES (50, 'Eriksen', 'Maria', 45, 'Féminin', 'Danoise', '4512345682', '0645678905', 'Bakkevej', 23, 'Aalborg', 'Danemark'),
-INSERT INTO CLIENT VALUES (51, 'Fischer', 'Anders', 33, 'Masculin', 'Danois', '4512345683', '0645678906', 'Havnegade', 6, 'Frederiksberg', 'Danemark'),
-INSERT INTO CLIENT VALUES (52, 'Gundersen', 'Sofie', 29, 'Féminin', 'Danoise', '4512345684', '0645678907', 'Østergade', 14, 'Horsens', 'Danemark'),
-INSERT INTO CLIENT VALUES (53, 'Hansen', 'Lars', 49, 'Masculin', 'Danois', '4512345685', '0645678908', 'Vestergade', 19, 'Randers', 'Danemark'),
-INSERT INTO CLIENT VALUES (54, 'Iversen', 'Emma', 31, 'Féminin', 'Américaine', '4612345686', '0645678909', 'Nørregade', 7, 'New York', 'États-Unis'),
-INSERT INTO CLIENT VALUES (55, 'Jensen', 'Mikkel', 37, 'Masculin', 'Canadien', '4612345687', '0645678910', 'Kongensgade', 10, 'Toronto', 'Canada'),
-INSERT INTO CLIENT VALUES (56, 'Karlsson', 'Anna', 39, 'Féminin', 'Finlandaise', '4612345688', '0645678911', 'Strandgade', 3, 'Helsinki', 'Finlande'),
-INSERT INTO CLIENT VALUES (57, 'Larsen', 'Andreas', 44, 'Masculin', 'Suisse', '4612345689', '0645678912', 'Kanalvej', 17, 'Zurich', 'Suisse'),
-INSERT INTO CLIENT VALUES (58, 'Müller', 'Hannah', 27, 'Féminin', 'Autrichienne', '4612345690', '0645678913', 'Marktstrasse', 9, 'Vienne', 'Autriche'),
-INSERT INTO CLIENT VALUES (59, 'Nielsen', 'Erik', 48, 'Masculin', 'Belge', '4612345691', '0645678914', 'Kirkevej', 16, 'Bruxelles', 'Belgique'),
-INSERT INTO CLIENT VALUES (60, 'Olsen', 'Julia', 32, 'Féminin', 'Néerlandaise', '4612345692', '0645678915', 'Hauptstrasse', 2, 'Amsterdam', 'Pays-Bas'),
-INSERT INTO CLIENT VALUES (61, 'Pedersen', 'Oliver', 41, 'Masculin', 'Portugais', '4612345693', '0645678916', 'Langgade', 11, 'Lisbonne', 'Portugal'),
-INSERT INTO CLIENT VALUES (62, 'Quist', 'Isabella', 30, 'Féminin', 'Brésilienne', '4612345694', '0645678917', 'Møllevej', 4, 'Rio de Janeiro', 'Brésil'),
-INSERT INTO CLIENT VALUES (63, 'Kamara', 'Fatoumata', 26, 'Féminin', 'Guinéenne', '6312345695', '2345678918', 'Avenue de la République', 7, 'Conakry', 'Guinée'),
-INSERT INTO CLIENT VALUES (64, 'Lee', 'Ji-hyun', 30, 'Féminin', 'Coréenne', '6412345696', '2445678919', 'Gangnam-daero', 22, 'Séoul', 'Corée du Sud'),
-INSERT INTO CLIENT VALUES (65, 'Moyo', 'Tendai', 36, 'Masculin', 'Zimbabwéen', '6512345697', '2545678920', 'Julius Nyerere Avenue', 15, 'Harare', 'Zimbabwe'),
-INSERT INTO CLIENT VALUES (66, 'Ndiaye', 'Aïssatou', 29, 'Féminin', 'Sénégalaise', '6612345698', '2645678921', 'Rue Abdoulaye Wade', 18, 'Dakar', 'Sénégal'),
-INSERT INTO CLIENT VALUES (67, 'Ong', 'Wei Li', 34, 'Masculin', 'Chinois', '6712345699', '2745678922', 'Rénmín South Road', 10, 'Pékin', 'Chine'),
-INSERT INTO CLIENT VALUES (68, 'Patel', 'Rajesh', 32, 'Masculin', 'Indien', '6812345700', '2845678923', 'Jawaharlal Nehru Road', 13, 'Mumbai', 'Inde'),
-INSERT INTO CLIENT VALUES (69, 'Sissoko', 'Mamadou', 45, 'Masculin', 'Malien', '6912345701', '2945678924', 'Rue Modibo Keita', 25, 'Bamako', 'Mali'),
-INSERT INTO CLIENT VALUES (70, 'Tang', 'Li Na', 28, 'Féminin', 'Chinoise', '7012345702', '3045678925', 'Nanping Street', 9, 'Shenzhen', 'Chine'),
-INSERT INTO CLIENT VALUES (71, 'Umaru', 'Abubakar', 39, 'Masculin', 'Nigérian', '7112345703', '3145678926', 'Zaria Road', 17, 'Abuja', 'Nigéria'),
+INSERT INTO CLIENT VALUES (47, 'Berg', 'Jens', 42, 'Masculin', 'Danois', '4512345679', '0645678902', 'Skovvej', 12, 'Aarhus', 'Danemark');
+INSERT INTO CLIENT VALUES (48, 'Christensen', 'Lise', 28, 'Féminin', 'Danoise', '4512345680', '0645678903', 'Hovedgade', 8, 'Odense', 'Danemark');
+INSERT INTO CLIENT VALUES (49, 'Dahl', 'Henrik', 51, 'Masculin', 'Danois', '4512345681', '0645678904', 'Søndergade', 15, 'Esbjerg', 'Danemark');
+INSERT INTO CLIENT VALUES (50, 'Eriksen', 'Maria', 45, 'Féminin', 'Danoise', '4512345682', '0645678905', 'Bakkevej', 23, 'Aalborg', 'Danemark');
+INSERT INTO CLIENT VALUES (51, 'Fischer', 'Anders', 33, 'Masculin', 'Danois', '4512345683', '0645678906', 'Havnegade', 6, 'Frederiksberg', 'Danemark');
+INSERT INTO CLIENT VALUES (52, 'Gundersen', 'Sofie', 29, 'Féminin', 'Danoise', '4512345684', '0645678907', 'Østergade', 14, 'Horsens', 'Danemark');
+INSERT INTO CLIENT VALUES (53, 'Hansen', 'Lars', 49, 'Masculin', 'Danois', '4512345685', '0645678908', 'Vestergade', 19, 'Randers', 'Danemark');
+INSERT INTO CLIENT VALUES (54, 'Iversen', 'Emma', 31, 'Féminin', 'Américaine', '4612345686', '0645678909', 'Nørregade', 7, 'New York', 'États-Unis');
+INSERT INTO CLIENT VALUES (55, 'Jensen', 'Mikkel', 37, 'Masculin', 'Canadien', '4612345687', '0645678910', 'Kongensgade', 10, 'Toronto', 'Canada');
+INSERT INTO CLIENT VALUES (56, 'Karlsson', 'Anna', 39, 'Féminin', 'Finlandaise', '4612345688', '0645678911', 'Strandgade', 3, 'Helsinki', 'Finlande');
+INSERT INTO CLIENT VALUES (57, 'Larsen', 'Andreas', 44, 'Masculin', 'Suisse', '4612345689', '0645678912', 'Kanalvej', 17, 'Zurich', 'Suisse');
+INSERT INTO CLIENT VALUES (58, 'Müller', 'Hannah', 27, 'Féminin', 'Autrichienne', '4612345690', '0645678913', 'Marktstrasse', 9, 'Vienne', 'Autriche');
+INSERT INTO CLIENT VALUES (59, 'Nielsen', 'Erik', 48, 'Masculin', 'Belge', '4612345691', '0645678914', 'Kirkevej', 16, 'Bruxelles', 'Belgique');
+INSERT INTO CLIENT VALUES (60, 'Olsen', 'Julia', 32, 'Féminin', 'Néerlandaise', '4612345692', '0645678915', 'Hauptstrasse', 2, 'Amsterdam', 'Pays-Bas');
+INSERT INTO CLIENT VALUES (61, 'Pedersen', 'Oliver', 41, 'Masculin', 'Portugais', '4612345693', '0645678916', 'Langgade', 11, 'Lisbonne', 'Portugal');
+INSERT INTO CLIENT VALUES (62, 'Quist', 'Isabella', 30, 'Féminin', 'Brésilienne', '4612345694', '0645678917', 'Møllevej', 4, 'Rio de Janeiro', 'Brésil');
+INSERT INTO CLIENT VALUES (63, 'Kamara', 'Fatoumata', 26, 'Féminin', 'Guinéenne', '6312345695', '2345678918', 'Avenue de la République', 7, 'Conakry', 'Guinée');
+INSERT INTO CLIENT VALUES (64, 'Lee', 'Ji-hyun', 30, 'Féminin', 'Coréenne', '6412345696', '2445678919', 'Gangnam-daero', 22, 'Séoul', 'Corée du Sud');
+INSERT INTO CLIENT VALUES (65, 'Moyo', 'Tendai', 36, 'Masculin', 'Zimbabwéen', '6512345697', '2545678920', 'Julius Nyerere Avenue', 15, 'Harare', 'Zimbabwe');
+INSERT INTO CLIENT VALUES (66, 'Ndiaye', 'Aïssatou', 29, 'Féminin', 'Sénégalaise', '6612345698', '2645678921', 'Rue Abdoulaye Wade', 18, 'Dakar', 'Sénégal');
+INSERT INTO CLIENT VALUES (67, 'Ong', 'Wei Li', 34, 'Masculin', 'Chinois', '6712345699', '2745678922', 'Rénmín South Road', 10, 'Pékin', 'Chine');
+INSERT INTO CLIENT VALUES (68, 'Patel', 'Rajesh', 32, 'Masculin', 'Indien', '6812345700', '2845678923', 'Jawaharlal Nehru Road', 13, 'Mumbai', 'Inde');
+INSERT INTO CLIENT VALUES (69, 'Sissoko', 'Mamadou', 45, 'Masculin', 'Malien', '6912345701', '2945678924', 'Rue Modibo Keita', 25, 'Bamako', 'Mali');
+INSERT INTO CLIENT VALUES (70, 'Tang', 'Li Na', 28, 'Féminin', 'Chinoise', '7012345702', '3045678925', 'Nanping Street', 9, 'Shenzhen', 'Chine');
+INSERT INTO CLIENT VALUES (71, 'Umaru', 'Abubakar', 39, 'Masculin', 'Nigérian', '7112345703', '3145678926', 'Zaria Road', 17, 'Abuja', 'Nigéria');
 INSERT INTO CLIENT VALUES (72, 'Wang', 'Yong', 31, 'Masculin', 'Chinois', '7212345704', '3245678927', 'Huaihai Road', 21, 'Shanghai', 'Chine');
-INSERT INTO CLIENT VALUES (73, 'Ahmed', 'Fatima', 35, 'Féminin', 'Marocaine', '7312345705', '3345678928', 'Rue Mohammed V', 10, 'Casablanca', 'Maroc'),
-INSERT INTO CLIENT VALUES (74, 'Belhadj', 'Karim', 42, 'Masculin', 'Algérien', '7412345706', '3445678929', 'Boulevard Amirouche', 15, 'Alger', 'Algérie'),
-INSERT INTO CLIENT VALUES (75, 'Cherif', 'Mouna', 28, 'Féminin', 'Tunisienne', '7512345707', '3545678930', 'Avenue Habib Bourguiba', 20, 'Tunis', 'Tunisie'),
-INSERT INTO CLIENT VALUES (76, 'Dali', 'Youssef', 31, 'Masculin', 'Marocain', '7612345708', '3645678931', 'Rue Ibn Battuta', 7, 'Rabat', 'Maroc'),
-INSERT INTO CLIENT VALUES (77, 'El-Masri', 'Amira', 39, 'Féminin', 'Algérienne', '7712345709', '3745678932', 'Rue Didouche Mourad', 12, 'Oran', 'Algérie'),
-INSERT INTO CLIENT VALUES (78, 'Fathi', 'Mohamed', 45, 'Masculin', 'Tunisien', '7812345710', '3845678933', 'Boulevard 14 Janvier', 25, 'Tunis', 'Tunisie'),
-INSERT INTO CLIENT VALUES (79, 'Gharbi', 'Nadia', 33, 'Féminin', 'Marocaine', '7912345711', '3945678934', 'Avenue Hassan II', 18, 'Marrakech', 'Maroc'),
-INSERT INTO CLIENT VALUES (80, 'Hakimi', 'Ali', 37, 'Masculin', 'Algérien', '8012345712', '4045678935', 'Rue Larbi Ben M hidi', 11, 'Alger', 'Algérie'),
-INSERT INTO CLIENT VALUES (81, 'Ibrahim', 'Lamia', 29, 'Féminin', 'Tunisienne', '8112345713', '4145678936', 'Avenue Habib Bourguiba', 14, 'Tunis', 'Tunisie'),
+INSERT INTO CLIENT VALUES (73, 'Ahmed', 'Fatima', 35, 'Féminin', 'Marocaine', '7312345705', '3345678928', 'Rue Mohammed V', 10, 'Casablanca', 'Maroc');
+INSERT INTO CLIENT VALUES (74, 'Belhadj', 'Karim', 42, 'Masculin', 'Algérien', '7412345706', '3445678929', 'Boulevard Amirouche', 15, 'Alger', 'Algérie');
+INSERT INTO CLIENT VALUES (75, 'Cherif', 'Mouna', 28, 'Féminin', 'Tunisienne', '7512345707', '3545678930', 'Avenue Habib Bourguiba', 20, 'Tunis', 'Tunisie');
+INSERT INTO CLIENT VALUES (76, 'Dali', 'Youssef', 31, 'Masculin', 'Marocain', '7612345708', '3645678931', 'Rue Ibn Battuta', 7, 'Rabat', 'Maroc');
+INSERT INTO CLIENT VALUES (77, 'El-Masri', 'Amira', 39, 'Féminin', 'Algérienne', '7712345709', '3745678932', 'Rue Didouche Mourad', 12, 'Oran', 'Algérie');
+INSERT INTO CLIENT VALUES (78, 'Fathi', 'Mohamed', 45, 'Masculin', 'Tunisien', '7812345710', '3845678933', 'Boulevard 14 Janvier', 25, 'Tunis', 'Tunisie');
+INSERT INTO CLIENT VALUES (79, 'Gharbi', 'Nadia', 33, 'Féminin', 'Marocaine', '7912345711', '3945678934', 'Avenue Hassan II', 18, 'Marrakech', 'Maroc');
+INSERT INTO CLIENT VALUES (80, 'Hakimi', 'Ali', 37, 'Masculin', 'Algérien', '8012345712', '4045678935', 'Rue Larbi Ben M hidi', 11, 'Alger', 'Algérie');
+INSERT INTO CLIENT VALUES (81, 'Ibrahim', 'Lamia', 29, 'Féminin', 'Tunisienne', '8112345713', '4145678936', 'Avenue Habib Bourguiba', 14, 'Tunis', 'Tunisie');
 INSERT INTO CLIENT VALUES (82, 'Jabir', 'Khalid', 36, 'Masculin', 'Marocain', '8212345714', '4245678937', 'Rue Ibn Tofail', 22, 'Fès', 'Maroc');
-INSERT INTO CLIENT VALUES (83, 'Dupont', 'Jean', 35, 'Masculin', 'Français', '8312345715', '4345678938', 'Rue de la Paix', 10, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (84, 'Martin', 'Sophie', 28, 'Féminin', 'Française', '8412345716', '4445678939', 'Avenue des Champs-Élysées', 20, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (85, 'Dubois', 'Pierre', 42, 'Masculin', 'Français', '8512345717', '4545678940', 'Rue du Faubourg Saint-Honoré', 15, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (86, 'Lefèvre', 'Camille', 31, 'Féminin', 'Française', '8612345718', '4645678941', 'Boulevard Haussmann', 30, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (87, 'Moreau', 'Thomas', 29, 'Masculin', 'Français', '8712345719', '4745678942', 'Rue de Rivoli', 25, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (88, 'Garcia', 'Manon', 27, 'Féminin', 'Française', '8812345720', '4845678943', 'Quai de la Tournelle', 5, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (89, 'Dufour', 'Nicolas', 36, 'Masculin', 'Français', '8912345721', '4945678944', 'Avenue Montaigne', 18, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (90, 'Petit', 'Emma', 33, 'Féminin', 'Française', '9012345722', '5045678945', 'Rue du Bac', 12, 'Paris', 'France'),
-INSERT INTO CLIENT VALUES (91, 'Robert', 'Lucie', 30, 'Féminin', 'Française', '9112345723', '5145678946', 'Place de la Concorde', 8, 'Paris', 'France'),
+INSERT INTO CLIENT VALUES (83, 'Dupont', 'Jean', 35, 'Masculin', 'Français', '8312345715', '4345678938', 'Rue de la Paix', 10, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (84, 'Martin', 'Sophie', 28, 'Féminin', 'Française', '8412345716', '4445678939', 'Avenue des Champs-Élysées', 20, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (85, 'Dubois', 'Pierre', 42, 'Masculin', 'Français', '8512345717', '4545678940', 'Rue du Faubourg Saint-Honoré', 15, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (86, 'Lefèvre', 'Camille', 31, 'Féminin', 'Française', '8612345718', '4645678941', 'Boulevard Haussmann', 30, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (87, 'Moreau', 'Thomas', 29, 'Masculin', 'Français', '8712345719', '4745678942', 'Rue de Rivoli', 25, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (88, 'Garcia', 'Manon', 27, 'Féminin', 'Française', '8812345720', '4845678943', 'Quai de la Tournelle', 5, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (89, 'Dufour', 'Nicolas', 36, 'Masculin', 'Français', '8912345721', '4945678944', 'Avenue Montaigne', 18, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (90, 'Petit', 'Emma', 33, 'Féminin', 'Française', '9012345722', '5045678945', 'Rue du Bac', 12, 'Paris', 'France');
+INSERT INTO CLIENT VALUES (91, 'Robert', 'Lucie', 30, 'Féminin', 'Française', '9112345723', '5145678946', 'Place de la Concorde', 8, 'Paris', 'France');
 INSERT INTO CLIENT VALUES (92, 'Simon', 'Antoine', 39, 'Masculin', 'Français', '9212345724', '5245678947', 'Avenue de lOpéra', 22, 'Paris', 'France');
-INSERT INTO CLIENT VALUES (93, 'Rossi', 'Giuseppe', 37, 'Masculin', 'Italien', '9312345725', '5345678948', 'Via Roma', 10, 'Rome', 'Italie'),
-INSERT INTO CLIENT VALUES (94, 'Bianchi', 'Maria', 29, 'Féminin', 'Italienne', '9412345726', '5445678949', 'Corso Vittorio Emanuele', 20, 'Milan', 'Italie'),
-INSERT INTO CLIENT VALUES (95, 'Ricci', 'Paolo', 42, 'Masculin', 'Italien', '9512345727', '5545678950', 'Via Montenapoleone', 15, 'Milan', 'Italie'),
-INSERT INTO CLIENT VALUES (96, 'Marino', 'Francesca', 31, 'Féminin', 'Italienne', '9612345728', '5645678951', 'Viale della Libertà', 30, 'Palermo', 'Italie'),
-INSERT INTO CLIENT VALUES (97, 'Conti', 'Luigi', 29, 'Masculin', 'Italien', '9712345729', '5745678952', 'Via Dante', 25, 'Florence', 'Italie'),
-INSERT INTO CLIENT VALUES (98, 'Galli', 'Sofia', 27, 'Féminin', 'Italienne', '9812345730', '5845678953', 'Piazza del Duomo', 5, 'Florence', 'Italie'),
-INSERT INTO CLIENT VALUES (99, 'De Luca', 'Giovanni', 36, 'Masculin', 'Italien', '9912345731', '5945678954', 'Via dei Condotti', 18, 'Rome', 'Italie'),
-INSERT INTO CLIENT VALUES (100, 'Ferrari', 'Chiara', 33, 'Féminin', 'Italienne', '10012345732', '6045678955', 'Via Veneto', 12, 'Rome', 'Italie'),
-INSERT INTO CLIENT VALUES (101, 'Rizzo', 'Marco', 30, 'Masculin', 'Italien', '10112345733', '6145678956', 'Corso Umberto I', 8, 'Naples', 'Italie'),
+INSERT INTO CLIENT VALUES (93, 'Rossi', 'Giuseppe', 37, 'Masculin', 'Italien', '9312345725', '5345678948', 'Via Roma', 10, 'Rome', 'Italie');
+INSERT INTO CLIENT VALUES (94, 'Bianchi', 'Maria', 29, 'Féminin', 'Italienne', '9412345726', '5445678949', 'Corso Vittorio Emanuele', 20, 'Milan', 'Italie');
+INSERT INTO CLIENT VALUES (95, 'Ricci', 'Paolo', 42, 'Masculin', 'Italien', '9512345727', '5545678950', 'Via Montenapoleone', 15, 'Milan', 'Italie');
+INSERT INTO CLIENT VALUES (96, 'Marino', 'Francesca', 31, 'Féminin', 'Italienne', '9612345728', '5645678951', 'Viale della Libertà', 30, 'Palermo', 'Italie');
+INSERT INTO CLIENT VALUES (97, 'Conti', 'Luigi', 29, 'Masculin', 'Italien', '9712345729', '5745678952', 'Via Dante', 25, 'Florence', 'Italie');
+INSERT INTO CLIENT VALUES (98, 'Galli', 'Sofia', 27, 'Féminin', 'Italienne', '9812345730', '5845678953', 'Piazza del Duomo', 5, 'Florence', 'Italie');
+INSERT INTO CLIENT VALUES (99, 'De Luca', 'Giovanni', 36, 'Masculin', 'Italien', '9912345731', '5945678954', 'Via dei Condotti', 18, 'Rome', 'Italie');
+INSERT INTO CLIENT VALUES (100, 'Ferrari', 'Chiara', 33, 'Féminin', 'Italienne', '10012345732', '6045678955', 'Via Veneto', 12, 'Rome', 'Italie');
+INSERT INTO CLIENT VALUES (101, 'Rizzo', 'Marco', 30, 'Masculin', 'Italien', '10112345733', '6145678956', 'Corso Umberto I', 8, 'Naples', 'Italie');
 INSERT INTO CLIENT VALUES (102, 'Greco', 'Laura', 39, 'Féminin', 'Italienne', '10212345734', '6245678957', 'Via San Gregorio Armeno', 22, 'Naples', 'Italie');
 
 
@@ -444,7 +444,7 @@ INSERT INTO DATE VALUES (1, TO_DATE('2022-9-24','YYYY-MM-DD'), 30, TO_DATE('2022
 
 
 
---vol vF
+--vol pas vF
 
 INSERT INTO VOL VALUES (1, 2468, TO_DATE('2022-12-31', 'YYYY-MM-DD'), 'asdf', 'Paris', 'Lyon', 250, 'airbus', 1, 'Oliver');
 INSERT INTO VOL VALUES (2, 1357, TO_DATE('2023-01-15', 'YYYY-MM-DD'), 'qwer', 'Lyon', 'Marseille', 180, 'boeing', 2, 'Smith');
@@ -475,7 +475,7 @@ INSERT INTO VOL VALUES (23, 7410, TO_DATE('2024-10-30', 'YYYY-MM-DD'), 'ghij', '
 
 --aeroport VF
 
-NSERT INTO AEROPORT VALUES (1, 'Charles de Gaulle', 'Paris', 'Ile de France', 'France', 48.998553, 82.549935, 100000, 1, 30, 1);
+INSERT INTO AEROPORT VALUES (1, 'Charles de Gaulle', 'Paris', 'Ile de France', 'France', 48.998553, 82.549935, 100000, 1, 30, 1);
 INSERT INTO AEROPORT VALUES (2, 'Orly', 'Paris', 'Ile de France', 'France', 48.726243, 62.365033, 80000, 1, 25, 1);
 INSERT INTO AEROPORT VALUES (3, 'Nice Côte dAzur', 'Nice', 'Provence-Alpes-Côte dAzur', 'France', 43.660205, 77.205170, 55000, 1, 20, 1);
 INSERT INTO AEROPORT VALUES (4, 'Lyon-Saint Exupéry', 'Lyon', 'Auvergne-Rhône-Alpes', 'France', 45.720555, 35.081111, 40000, 1, 15, 1);
@@ -535,7 +535,7 @@ INSERT INTO r_date VALUES (11, TO_DATE('2023-07-05','YYYY-MM-DD'), 19, TO_DATE('
 
 
 
---vol
+--vol VF
 
 INSERT INTO VOL VALUES (1, 7410, TO_DATE('2022-10-30', 'YYYY-MM-DD'), 'ghij', 'Paris', 'Toulouse', 220, 'boeing', 2, 'Murphy');
 INSERT INTO VOL VALUES (2, 7411, TO_DATE('2022-11-05', 'YYYY-MM-DD'), 'klmn', 'Paris', 'Lyon', 150, 'airbus', 1, 'Smith');
